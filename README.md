@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Noah, a Full-Stack Developer!</h1>
 
-<!--
-**Noah-Grimaldi/Noah-Grimaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/noah-grimaldi/"><img src="https://img.shields.io/badge/Noah%20Grimaldi-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://play.google.com/store/apps/developer?id=Noah+Grimaldi"><img src="![Static Badge](https://img.shields.io/badge/Noah%20Grimaldi-black?logo=googleplay&logoColor=%233bccff)
+" alt="Google Play"></a>
+</p>
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am experienced with standalone application development and helping the frontend communicate with the backend. My passion lies in creating working, organized code that facilitates the program's simplicity while focusing on user experience.
+
+## 🎇 Skills
+
+### 📂 Languages and Frameworks
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-black?logo=oracle&logoColor=orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)
+
+### 🔨 Tools and Version Control
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/Noah%20Grimaldi-black?logo=pycharm)
+![IntelliJ](https://img.shields.io/badge/Noah%20Grimaldi-black?logo=intellijidea)
+![Windows Terminal](https://img.shields.io/badge/Noah%20Grimaldi-black?logo=windowsterminal)
+
+## 📈 My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noah-grimaldi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Noah Grimaldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-grimaldi&show_icons=true&theme=radical)
+
