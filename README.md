@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noah-grimaldi/"><img src="https://img.shields.io/badge/Noah%20Grimaldi-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://play.google.com/store/apps/developer?id=Noah+Grimaldi"><img src="![Static Badge](https://img.shields.io/badge/Noah%20Grimaldi-black?logo=googleplay&logoColor=%233bccff)
-" alt="Google Play"></a>
+  <a href="https://play.google.com/store/apps/developer?id=Noah+Grimaldi"><img src="https://img.shields.io/badge/Noah%20Grimaldi-black?logo=googleplay&logoColor=%233bccff" alt="Google Play"></a>
 </p>
 
 ## 💻 About Me
