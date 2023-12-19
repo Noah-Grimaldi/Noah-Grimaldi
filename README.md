@@ -12,7 +12,7 @@ I am experienced with standalone application development and helping the fronten
 
 ## 🎇 Skills
 
-### 📂 Languages and Frameworks
+### Languages and Frameworks
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-black?logo=oracle&logoColor=orange)
@@ -22,7 +22,7 @@ I am experienced with standalone application development and helping the fronten
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)
 
-### 🔨 Tools and Version Control
+### Tools and Version Control
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode&logoColor=blue)
