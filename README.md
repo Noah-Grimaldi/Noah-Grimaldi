@@ -26,8 +26,8 @@ I am experienced with standalone application development and helping the fronten
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode&logoColor=blue)
-![PyCharm](https://img.shields.io/badge/PyCharm-lightgreen?logo=pycharm&logoColor=black)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-lightblue?logo=intellijidea&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-white?logo=pycharm&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-white?logo=intellijidea&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-white?logo=windowsterminal&logoColor=black)
 
 ## 📈 My Stats
