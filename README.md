@@ -19,7 +19,7 @@ I am experienced with standalone application development and helping the fronten
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)
 
 ### Tools and Version Control
