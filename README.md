@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noah, a Full-Stack Developer!</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&multiline=true&random=false&width=435&height=80&lines=Noah+Grimaldi;Student+%7C+Software+Engineer;Python+%7C+Java+%7C+JavaScript%2FHTML%2FCSS)](https://git.io/typing-svg)</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noah-grimaldi/"><img src="https://img.shields.io/badge/Noah%20Grimaldi-blue?logo=linkedin" alt="LinkedIn"></a>
