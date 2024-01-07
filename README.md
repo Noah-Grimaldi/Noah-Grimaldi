@@ -7,7 +7,7 @@
 
 ## 💻 About Me
 
-I am experienced with standalone application development and helping the frontend communicate with the backend. My passion lies in creating working, organized code that facilitates the program's simplicity while focusing on user experience.
+I have experience with standalone application development, backend, and frontend work. My passion lies in creating working, organized code that facilitates the program's simplicity while focusing on user experience.
 
 ## 🎇 Skills
 
