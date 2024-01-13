@@ -30,7 +30,7 @@ I have experience with standalone application development, backend, and frontend
 
 ## 📈 My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noah-grimaldi&layout=compact&exclude_repo=youtube-copyright-finder,frontend-landscaping-website)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noah-grimaldi&layout=compact&exclude_repo=frontend-landscaping-website)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Noah Grimaldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-grimaldi&show_icons=true&theme=radical)
 
