@@ -26,7 +26,7 @@ I have experience with standalone application development, backend, and frontend
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode&logoColor=blue)
 ![PyCharm](https://img.shields.io/badge/PyCharm-white?logo=pycharm&logoColor=black)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-white?logo=intellijidea&logoColor=black)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-white?logo=windowsterminal&logoColor=black)
+![Terminal](https://img.shields.io/badge/Windows%20Terminal-white?logo=windowsterminal&logoColor=black)
 
 ## 📈 My Stats
 
