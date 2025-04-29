@@ -7,7 +7,7 @@
 
 ## 💻 About Me
 
-I have experience with Python and JavaScript full-stack development. My passion lies in creating working, organized code that facilitates the program's simplicity while focusing on user experience.
+I have experience with Python and JavaScript full-stack development. My passion lies in creating working, organized code that facilitates the program's simplicity and creates a quality user experience.
 
 ## 🎇 Skills
 
