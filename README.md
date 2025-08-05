@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=1500&pause=500&center=true&multiline=true&random=false&width=435&height=80&lines=Noah+Grimaldi;Student+%7C+Software+Engineer;Python+%7C+JavaScript" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=1500&pause=500&center=true&multiline=true&random=false&width=435&height=80&lines=Noah+Grimaldi;Student+%7C+Software+Engineer;Python+%7C" alt="Typing SVG" /></a></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noah-grimaldi/" target="_blank"><img src="https://img.shields.io/badge/Noah%20Grimaldi-blue?logo=linkedin" alt="LinkedIn"></a>
@@ -6,15 +6,13 @@
 
 ## 💻 About Me
 
-I have experience with Python and JavaScript full-stack development. My passion lies in creating working, organized code that facilitates the program's simplicity and creates a quality user experience.
+I love Python, especially anything having to do with training models or OpenCV. 
 
 ## 🎇 Skills
 
-### Languages and Frameworks
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ### Tools and Version Control
 
